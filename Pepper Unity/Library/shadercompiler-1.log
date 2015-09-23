@@ -1,0 +1,35 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1598492204
+Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 12 at (61): Unrecognized #pragma directive: shader_feature
+  error: 2 plat 12 at (82): Can't find include file UnityStandardCore.cginc
+  error: 1 plat 12 at (108): Unrecognized #pragma directive: shader_feature
+  error: 2 plat 12 at (117): Can't find include file UnityStandardCore.cginc
+  error: 2 plat 12 at (143): Can't find include file UnityStandardShadow.cginc
+  error: 1 plat 12 at (152): Unrecognized #pragma directive: shader_feature
+  error: 2 plat 12 at (177): Can't find include file UnityStandardCore.cginc
+  error: 1 plat 12 at (189): Unrecognized #pragma directive: shader_feature
+  error: 1 plat 12 at (189): Unrecognized renderer for #pragma exclude_renderers: nomrt
+  error: 2 plat 12 at (200): Can't find include file UnityStandardMeta.cginc
+  error: 2 plat 12 at (238): Can't find include file UnityStandardCore.cginc
+  error: 1 plat 12 at (239): Unrecognized #pragma directive: shader_feature
+  error: 2 plat 12 at (269): Can't find include file UnityStandardCore.cginc
+  error: 1 plat 12 at (279): Unrecognized #pragma directive: shader_feature
+  error: 1 plat 12 at (279): Unrecognized #pragma directive: skip_variants
+  error: 2 plat 12 at (291): Can't find include file UnityStandardShadow.cginc
+  error: 2 plat 12 at (314): Can't find include file UnityStandardMeta.cginc
+  error: 1 plat 12 at (324): Unrecognized #pragma directive: shader_feature
+  error: 1 plat 12 at (324): Unrecognized #pragma directive: skip_variants
+  error: 1 plat 12 at (364): Unrecognized #pragma directive: shader_feature
+  error: 1 plat 12 at (364): Unrecognized #pragma directive: skip_variants
+  error: 1 plat 12 at (401): Unrecognized #pragma directive: shader_feature
+  insize=8435 outsize=4678 ok=0
+Cmd: preprocess
+  insize=428 outsize=1174 ok=1
+Cmd: preprocess
+  insize=2158 outsize=869 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1588 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1588 outsize=1637 kw= ok=1
